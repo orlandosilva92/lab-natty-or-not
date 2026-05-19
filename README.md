@@ -124,5 +124,5 @@ Aplicada à criação com IA, ela soa como um aviso metodológico: o modelo tamb
 | Arquivo | Descrição |
 |---|---|
 | `CODEX_VELUNDRA.docx` | Manuscrito original do autor (pré-revisão com IA) |
-| `CODEX_VELUNDRA_Livro_Final.docx` | Versão final editada e formatada em docx |
+| `CODEX_VELUNDRA_Livro_Final.docx` | Versão final editada e formatada em odf |
 | `README.md` | Este documento |
