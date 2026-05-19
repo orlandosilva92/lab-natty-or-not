@@ -100,7 +100,8 @@ O **Codex Velundra** é um livro de ficção especulativa de aproximadamente 110
 
 O projeto demonstra tanto o potencial quanto os limites reais das IAs generativas aplicadas à criação literária: elas aceleram e amplificam o processo, mas não substituem as decisões editoriais, o olhar crítico sobre a consistência interna da obra nem a responsabilidade final sobre cada palavra que fica na página.
 
-> 📥 **[Link para o livro aqui]([https://github.com/orlandosilva92/lab-natty-or-not/edit/main/README.md](https://github.com/orlandosilva92/lab-natty-or-not/blob/main/CODEX%20VELUNDRA.pdf))**
+> 📥 **[Link para o livro aqui]**
+ [https://github.com/orlandosilva92/lab-natty-or-not/tree/main]
 
 ---
 
